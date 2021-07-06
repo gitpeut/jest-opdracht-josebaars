@@ -1,4 +1,4 @@
-ix index.js zodat alle tests goed gaan.
+Fix index.js zodat alle tests goed gaan.
 
 1. clone de repository
 2. open de terminal in WebStorm
