@@ -1,0 +1,16 @@
+{
+  "name": "tot-dezoveelste",
+  "version": "1.0.0",
+  "description": "test de ** operator en test of een getal een macht van 2 is",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "scripts": {
+    "test": "npx jest",
+    "test:watch": "npx test --watch"
+  },
+  "author": "Jose Baars",
+  "license": "ISC"
+}
